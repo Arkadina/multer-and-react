@@ -1,0 +1,58 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "email@email.com",
+            "languages": ["english", "spanish"],
+            "state": "true",
+            "imgName": "img-1672353788145.png"
+        },
+        {
+            "id": 2,
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "email@email.com",
+            "languages": ["english", "spanish"],
+            "state": "true",
+            "imgName": "img-1672353788145.png"
+        },
+        {
+            "id": 3,
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "email@email.com",
+            "languages": ["english", "spanish"],
+            "state": "true",
+            "imgName": "img-1672353788145.png"
+        },
+        {
+            "id": 4,
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "email@email.com",
+            "languages": ["english", "spanish"],
+            "state": "true",
+            "imgName": "img-1672353788145.png"
+        },
+        {
+            "id": 5,
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "email@email.com",
+            "languages": ["english", "spanish"],
+            "state": "true",
+            "imgName": "img-1672353788145.png"
+        },
+        {
+            "id": 6,
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "email@email.com",
+            "languages": ["english", "spanish"],
+            "state": "true",
+            "imgName": "img-1672353788145.png"
+        }
+    ]
+}
